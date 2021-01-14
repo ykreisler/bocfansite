@@ -1,0 +1,36 @@
+body{
+    font-family: 'Xanh Mono', monospace;
+}
+h1{
+    text-align: center;
+    font-weight: 4px;
+}
+p{
+    font-weight: lighter;
+}
+.intro{
+font-family: 'Open Sans', sans-serif;
+font-weight: 100;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  li {
+    float: left;
+    display: block;
+    color: rgb(121, 37, 216);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 350ms;
+  }
+  
+  li:hover {
+    color: rgb(58, 233, 58);
+  }
